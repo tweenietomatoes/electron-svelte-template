@@ -1,8 +1,8 @@
 # electron-svelte-template
 
-##Electron + Svelte Template
+## Electron + Svelte Template
 
-##Usage
+## Usage
 
 ```bash
  npx degit "tweenietomatoes/electron-svelte-template" svelte-electron
